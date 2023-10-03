@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css2?family=VT323&display=swap);
+
+@import url(https://preview.redd.it/what-does-this-fanbase-think-about-joeyy-v0-rhdoia707dm91.jpg?auto=webp&s=ab2f75985aa7a5f5a536ef134b49acce6820c9f2);
+
+@import url(https://wallpapers.com/images/hd/plain-black-background-02fh7564l8qq4m6d.jpg);
+
+* {
+    font-family: 'VT323';
+}
+
+body {
+    background-image: url(https://wallpapers.com/images/hd/plain-black-background-02fh7564l8qq4m6d.jpg);
+     
+}
+.container {
+    
+    position: relative;
+    left: 855px;
+    text-align: relative;
+    color: rgb(24, 189, 24);
+}
+
+.top-left {
+    position: absolute;
+    top: 200px;
+    left: 16px;
+    font-size: 300%;
+}
+
+
+  /* Bottom left text */
+.bottom-left {
+    position: absolute;
+    top: 300px;
+    left: 16px;
+    font-size: 300%;
+}
+  
+  /* Top left text */
+
+
+img {
+    border-radius: 50%;
+}
+.card {
+    color: black;
+    width: 50%;
+    bottom: 600px;
+    left: 100px;
+    font-size: 200%;
+}
+
+.card-body {
+    color: rgb(24, 189, 24);
+}
+.card-title {
+    font-size: 200%;    
+}
