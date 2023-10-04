@@ -54,5 +54,12 @@ img {
     color: rgb(24, 189, 24);
 }
 .card-title {
-    font-size: 200%;    
+    font-size: 200%; 
+       
+}
+.column {
+    color: rgb(24, 189, 24);
+    margin-left: 115px;
+    margin-top: -500px;
+    font-size: 150%;
 }
